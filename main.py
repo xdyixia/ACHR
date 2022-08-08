@@ -34,31 +34,10 @@ if __name__ == '__main__':
         p2 = _get_p(4)
         q2 = _get_p(4)   
 
-        #p1 = _get_p(8)
-        #q1 = _get_p(8)
-        #p2 = _get_p(8)
-        #q2 = _get_p(8)  
-
-        #p1 = _get_p(16)
-        #q1 = _get_p(16)
-        #p2 = _get_p(16)
-        #q2 = _get_p(16)  
-
-        #p1 = _get_p(32)
-        #q1 = _get_p(32)
-        #p2 = _get_p(32)
-        #q2 = _get_p(32)  
-
-        #p1 = _get_p(64)
-        #q1 = _get_p(64)
-        #p2 = _get_p(64)
-        #q2 = _get_p(64)  
-
         #p1 = _get_p(128)
         #q1 = _get_p(128)
         #p2 = _get_p(128)
-        #q2 = _get_p(128)  
-
+        #q2 = _get_p(128)     
         #print(p1)
         #print(q1)
         #print(p2)
